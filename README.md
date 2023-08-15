@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KitanoB
+- 👀 I’m Software Developer 
+- 🌱 I’m currently in the NeetCode150 challenge
+- 💞️ I share this adventure on my [Blog](https://kitanob.github.io/kitanoLab/)
+- 📫 How to reach me ? [Twitter](https://twitter.com/kitanoB_Dev)
