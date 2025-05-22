@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KitanoB
-- 👀 I’m Software Developer
-- 🪲 It’s not a bug; it’s an undocumented feature!
-- 📫 How to reach me ? [Twitter](https://twitter.com/kitanoB_Dev)
+- 👋 I’m Kitano from 🇫🇷.
+- 👀 I’m Software Engineer.
+- 💲 I'm interested in finance, entrepreneurship.
+- ☕️ My Stack: Java, Kotlin, Angular, Flutter.
+- 📫 How to reach me ? [Twitter](https://twitter.com/kitanoB_Dev).
